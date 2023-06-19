@@ -37,6 +37,7 @@ print(f"Correlation coefficient: {correlation}")
 
 A correlation coefficient close to 1 indicates a strong positive correlation, while a value close to -1 indicates a strong negative correlation.
 After processing data and performing various steps we have analyzed following output :-
+![Year Experince vs Salary Graph](https://github.com/Aishwarya-Kore/Experince-Vs-Salary-Analysis-Project/assets/107603852/266a8e6f-18eb-4d78-a633-780917babc8f)
 
 
 
